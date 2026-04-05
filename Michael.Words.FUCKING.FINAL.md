@@ -7,6 +7,9 @@ nation, religion, culture, ethnic group, or yourself.
 ### Absquatuluate:
 The tendency to leave abrubtly. (Humorous word) US usage.
 
+### Apricate
+To bask in the sunshine.
+
 ### Amathia
 A willfull ignorance
 
@@ -19,6 +22,11 @@ The tendency to perceive meaningful connections in unrelated data.
 ### Brontide 
 The low frequency rumble of thunder that you hear in the distance.
 
+### Didaskaleinophobia
+The fear of going to school.
+
+### Efflorescence
+A state or time of flowering. 
 
 ### Eremition
 The distancing from other people, not out of malice, but for a desire for solitude.
@@ -31,6 +39,9 @@ Referring to the day before yesterday.
 
 ### Obelus
 The division symbol ("÷")
+
+### Paracosm
+A paracosm is a detailed imaginary world thought generally to originate in childhood. The creator of a paracosm has a complex and deeply felt relationship with this subjective universe, which may incorporate real-world or imaginary characters and conventions. Commonly having its own geography, history, and language, it is an experience that is often developed during childhood. It may continue over many months or even years, lasting into adulthood.
 
 ### Pandiculation
 The act of stretching and yawning after waking up.
@@ -49,6 +60,16 @@ Second from last
 
 ### Quockerwodger
 Politician whose controlled by someone else (probably most US presidents.)
+
+### Sonder
+You are the main character. The protagonist. The star at the center of your own unfolding story. You’re surrounded by your supporting cast: friends and family hanging in your immediate orbit. Scattered a little further out, a network of acquaintances who drift in and out of contact over the years.
+
+But there in the background, faint and out of focus, are the extras. The random passersby. Each living a life as vivid and complex as your own. They carry on invisibly around you, bearing the accumulated weight of their own ambitions, friends, routines, mistakes, worries, triumphs, and inherited craziness.
+
+When your life moves on to the next scene, theirs flickers in place, wrapped in a cloud of backstory and inside jokes and characters strung together with countless other stories you’ll never be able to see. That you’ll never know exist. In which you might appear only once. As an extra sipping coffee in the background. As a blur of traffic passing on the highway. As a lighted window at dusk.
+
+### Susurrus
+Soft, whispering, murmuring, or rustling sound.
 
 
 ********************************************

@@ -6,4 +6,4 @@ I cannot fucking understand.
 
 Also, I might as well make all these silly words publicly available.
 
-Burn it all down. LET THE PROLETARIAT RISE FROM THE ASEHS!!!!!!
+Burn it all down. LET THE PROLETARIAT RISE FROM THE ASHES!!!!!!

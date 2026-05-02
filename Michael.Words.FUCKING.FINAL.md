@@ -34,6 +34,9 @@ The distancing from other people, not out of malice, but for a desire for solitu
 ### Hexakosioihexekontahexaphobia 
 Specific phobia characterized by an intense, persistent, and irrational fear of the number "666"
 
+### Ipseity
+Being oneself; individual identity.
+
 ### Nudiustertian 
 Referring to the day before yesterday.
 

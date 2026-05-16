@@ -19,6 +19,12 @@ Divine negation emphasizing what God is not.
 ### Apophenia
 The tendency to perceive meaningful connections in unrelated data.
 
+### Biblioklept
+Someone who steals books.
+
+### Borborygmus
+The rumbling sound of gas moving through the intestines.
+
 ### Brontide 
 The low frequency rumble of thunder that you hear in the distance.
 
@@ -36,6 +42,9 @@ Specific phobia characterized by an intense, persistent, and irrational fear of 
 
 ### Ipseity
 Being oneself; individual identity.
+
+### Librocubicularist
+A person who reads in bed.
 
 ### Nudiustertian 
 Referring to the day before yesterday.
@@ -73,6 +82,10 @@ When your life moves on to the next scene, theirs flickers in place, wrapped in 
 
 ### Susurrus
 Soft, whispering, murmuring, or rustling sound.
+
+### Tittynope
+A small, tiny amount of something that's left over.
+
 
 
 ********************************************

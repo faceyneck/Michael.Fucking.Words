@@ -1,11 +1,21 @@
 # THESE ARE THE FUCKING WORDS MICHAEL SHARES WITH ME. I AM SICK OF MEGASYNC LOSING THEM, SO NOW I'VE SETUP THIS FILE
 
+### Absquatuluate:
+The tendency to leave abrubtly. (Humorous word) US usage.
+
+### Acnestis
+The exact unreachable part of your upper back between your shoulder blades, where
+an itch is impossible to scratch.
+
+### Agelast
+Somebody who never laughs.
+
 ### Alethophobia: 
 A crippling fear of the truth. The inability to accept unflattering FACTS about your
 nation, religion, culture, ethnic group, or yourself.
 
-### Absquatuluate:
-The tendency to leave abrubtly. (Humorous word) US usage.
+### Anemoia
+A deep nostalgic feeling for a place or time you've never been.
 
 ### Apricate
 To bask in the sunshine.
@@ -52,6 +62,9 @@ Referring to the day before yesterday.
 ### Obelus
 The division symbol ("÷")
 
+### Ovophobia
+The fear of eggs.
+
 ### Paracosm
 A paracosm is a detailed imaginary world thought generally to originate in childhood. The creator of a paracosm has a complex and deeply felt relationship with this subjective universe, which may incorporate real-world or imaginary characters and conventions. Commonly having its own geography, history, and language, it is an experience that is often developed during childhood. It may continue over many months or even years, lasting into adulthood.
 
@@ -86,6 +99,8 @@ Soft, whispering, murmuring, or rustling sound.
 ### Tittynope
 A small, tiny amount of something that's left over.
 
+### Velleity
+A wish or a desire for something that is so faint, that you make absolutely no effort to get it.
 
 
 ********************************************

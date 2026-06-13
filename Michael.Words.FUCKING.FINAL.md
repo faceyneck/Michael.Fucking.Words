@@ -47,11 +47,20 @@ A state or time of flowering.
 ### Eremition
 The distancing from other people, not out of malice, but for a desire for solitude.
 
+### Freudenfreude
+Finding pleasure in the success and happiness of others.
+The opposite of schaudenfreude.
+
 ### Hexakosioihexekontahexaphobia 
 Specific phobia characterized by an intense, persistent, and irrational fear of the number "666"
 
 ### Ipseity
 Being oneself; individual identity.
+
+### Lagniappe
+The extra gift that someone gives you for purchasing 
+something from them. Such as, the 13th donut, in a
+baker's dozen.
 
 ### Librocubicularist
 A person who reads in bed.

@@ -108,6 +108,9 @@ Soft, whispering, murmuring, or rustling sound.
 ### Tittynope
 A small, tiny amount of something that's left over.
 
+### Turophobia
+Fear of cheese.
+
 ### Velleity
 A wish or a desire for something that is so faint, that you make absolutely no effort to get it.
 

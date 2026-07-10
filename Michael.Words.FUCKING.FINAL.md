@@ -1,5 +1,6 @@
 # THESE ARE THE FUCKING WORDS MICHAEL SHARES WITH ME. I AM SICK OF MEGASYNC LOSING THEM, SO NOW I'VE SETUP THIS FILE
 
+
 ### Absquatuluate:
 The tendency to leave abrubtly. (Humorous word) US usage.
 
@@ -56,6 +57,9 @@ Specific phobia characterized by an intense, persistent, and irrational fear of 
 
 ### Ipseity
 Being oneself; individual identity.
+
+### Kenopsia 
+The eeriness of places left behind
 
 ### Lagniappe
 The extra gift that someone gives you for purchasing 

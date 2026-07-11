@@ -15,6 +15,9 @@ Somebody who never laughs.
 A crippling fear of the truth. The inability to accept unflattering FACTS about your
 nation, religion, culture, ethnic group, or yourself.
 
+### Alexithymia
+The inability to recognize or describe one's own emotions.
+
 ### Anemoia
 A deep nostalgic feeling for a place or time you've never been.
 

@@ -1,7 +1,6 @@
 # THESE ARE THE FUCKING WORDS MICHAEL SHARES WITH ME. I AM SICK OF MEGASYNC LOSING THEM, SO NOW I'VE SETUP THIS FILE
 
 
-
 ### Absquatuluate:
 The tendency to leave abrubtly. (Humorous word) US usage.
 
@@ -105,6 +104,9 @@ Second from last
 
 ### Quockerwodger
 Politician whose controlled by someone else (probably most US presidents.)
+
+### Risible
+Something that's able to cause laughter because it's so ridiculous and absurd.
 
 ### Sonder
 You are the main character. The protagonist. The star at the center of your own unfolding story. You’re surrounded by your supporting cast: friends and family hanging in your immediate orbit. Scattered a little further out, a network of acquaintances who drift in and out of contact over the years.

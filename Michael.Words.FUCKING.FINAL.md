@@ -45,10 +45,10 @@ The low frequency rumble of thunder that you hear in the distance.
 ### Didaskaleinophobia
 The fear of going to school.
 
-### Digetic
+### Diegetic
 Something that belongs to or occurs in a fictional world.
 If it's something the reader/viewer knows about it, but the characters do not,
-that is nondigetic.
+that is nondiegetic.
 
 ### Efflorescence
 A state or time of flowering. 

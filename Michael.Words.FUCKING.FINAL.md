@@ -138,3 +138,53 @@ A wish or a desire for something that is so faint, that you make absolutely no e
 Wankpuffin - A contemptable person, a wanker
 ********************************************
 ********************************************
+
+
+
+# A bunch of goofy proper plurals of animals
+# Apes and mammals:
+## A shrewdness of apes
+# ...and we continue
+## A cete of badgers
+## A sloth or slewth of bears
+## A clowder of cats or a glaring of cats
+## A parade of elephants
+## A business of ferets
+## A skulk of foxes of A leash of foxes
+## A tower of giraffes
+## A band of gorillas
+## A bloat of hippopotamus/hippos
+## A cackel of hyenas
+## A mob or a troop of kangaroos
+## A leap of leopards
+## A pride of lions
+## A romp of otters
+## A prickle porcupines
+## A crash of rhinos
+## A pod or a gam of dolphins/whales
+## A pack of wolves
+## A a zeal of zebrahs, or a dazzle of zebrahs
+## A murder of crows
+## A convocation of eagles
+## A flamboyance of flamingoes
+## A gagle of geese, but only when on land. In the air, it's a skein of geese when they're flyin'
+## A cast or a kettle of hawks
+## A parliament of owls
+## A pandemonium of parrots
+## An ostentation of peacocks/peafowls
+## A colony of penguins, or a waddle of penguins
+## An unkindness of ravens
+## A murmuration of starlings
+## A bevy of swans, or a wedge of swans
+## A congregation of alligators
+## A quiver of cobras
+## A bask of crocodiles
+## A army of frogs
+## A knot of toads
+## A bale of turtles
+
+********************************************
+******MICHAEL'S_FAVOURITE_PROPER_PLURAL*****
+********************************************
+********************************************
+## A lounge of lizards

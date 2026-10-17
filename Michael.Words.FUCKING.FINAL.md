@@ -1,7 +1,9 @@
 # THESE ARE THE FUCKING WORDS MICHAEL SHARES WITH ME. I AM SICK OF MEGASYNC LOSING THEM, SO NOW I'VE SETUP THIS FILE
 
 
-### Absquatuluate:
+
+
+### Absquatuluate
 The tendency to leave abrubtly. (Humorous word) US usage.
 
 ### Acnestis
@@ -33,6 +35,12 @@ Divine negation emphasizing what God is not.
 ### Apophenia
 The tendency to perceive meaningful connections in unrelated data.
 
+### Ataraxia
+A state of profound mental tranquililty, calmness, and a freedom from emotional disturbance or anxiety.
+
+### Automaticity
+The act of reacting spontaneously without thinking. (Reacting instead of responding.)
+
 ### Biblioklept
 Someone who steals books.
 
@@ -52,6 +60,10 @@ that is nondiegetic.
 
 ### Efflorescence
 A state or time of flowering. 
+
+### Epistocracy
+Epistocracy is a proposed political system where political power or the right to vote is distributed based on a person's knowledge, 
+expertise, or political competence rather than granting equal suffrage to all citizens.
 
 ### Eremition
 The distancing from other people, not out of malice, but for a desire for solitude.

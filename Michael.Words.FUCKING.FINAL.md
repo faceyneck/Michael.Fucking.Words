@@ -1,10 +1,11 @@
 # THESE ARE THE FUCKING WORDS MICHAEL SHARES WITH ME. I AM SICK OF MEGASYNC LOSING THEM, SO NOW I'VE SETUP THIS FILE
 
 
-
-
 ### Absquatuluate
 The tendency to leave abrubtly. (Humorous word) US usage.
+
+### Accismus
+The rhetorical act of pretending to be disinterested in something that you're actually interested in.
 
 ### Acnestis
 The exact unreachable part of your upper back between your shoulder blades, where
@@ -19,6 +20,7 @@ nation, religion, culture, ethnic group, or yourself.
 
 ### Alexithymia
 The inability to recognize or describe one's own emotions.
+
 
 ### Anemoia
 A deep nostalgic feeling for a place or time you've never been.
@@ -125,6 +127,9 @@ Politician whose controlled by someone else (probably most US presidents.)
 ### Risible
 Something that's able to cause laughter because it's so ridiculous and absurd.
 
+### Selcouth
+Strange, rare, unusual, unfamiliar, odd, uncommon, out of the ordinary. Usually has a positive connotation.
+
 ### Sonder
 You are the main character. The protagonist. The star at the center of your own unfolding story. You’re surrounded by your supporting cast: friends and family hanging in your immediate orbit. Scattered a little further out, a network of acquaintances who drift in and out of contact over the years.
 
@@ -141,8 +146,12 @@ A small, tiny amount of something that's left over.
 ### Turophobia
 Fear of cheese.
 
+### Ucalegon
+A neighbor whose house is on fire.
+
 ### Velleity
 A wish or a desire for something that is so faint, that you make absolutely no effort to get it.
+
 
 
 ********************************************

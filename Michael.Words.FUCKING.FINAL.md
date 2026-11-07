@@ -1,6 +1,7 @@
 # THESE ARE THE FUCKING WORDS MICHAEL SHARES WITH ME. I AM SICK OF MEGASYNC LOSING THEM, SO NOW I'VE SETUP THIS FILE
 
 
+
 ### Absquatuluate
 The tendency to leave abrubtly. (Humorous word) US usage.
 
@@ -10,6 +11,9 @@ The rhetorical act of pretending to be disinterested in something that you're ac
 ### Acnestis
 The exact unreachable part of your upper back between your shoulder blades, where
 an itch is impossible to scratch.
+
+### Agathokakological
+Composed of or mixing together both good and evil.
 
 ### Agelast
 Somebody who never laughs.
@@ -52,8 +56,15 @@ The rumbling sound of gas moving through the intestines.
 ### Brontide 
 The low frequency rumble of thunder that you hear in the distance.
 
+### Cacography
+Bad or messy or shitty handwriting.
+
+### Deipnosophist
+A person who is an expert or skilled at talking during dinner; a table-talker.
+
 ### Didaskaleinophobia
 The fear of going to school.
+
 
 ### Diegetic
 Something that belongs to or occurs in a fictional world.
@@ -77,6 +88,9 @@ The opposite of schaudenfreude.
 ### Hexakosioihexekontahexaphobia 
 Specific phobia characterized by an intense, persistent, and irrational fear of the number "666"
 
+### Impignorate
+To pawn or mortgage an item.
+
 ### Ipseity
 Being oneself; individual identity.
 
@@ -90,6 +104,9 @@ baker's dozen.
 
 ### Librocubicularist
 A person who reads in bed.
+
+### Lypophrenia
+A vague lingering sadness or sorrow that happens without any clear cause.
 
 ### Nudiustertian 
 Referring to the day before yesterday.
@@ -149,8 +166,12 @@ Fear of cheese.
 ### Ucalegon
 A neighbor whose house is on fire.
 
+### Ultracrepidarian
+Someone who gives opinions or advice on something they don't know anything about.
+
 ### Velleity
 A wish or a desire for something that is so faint, that you make absolutely no effort to get it.
+
 
 
 

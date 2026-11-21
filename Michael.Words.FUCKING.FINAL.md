@@ -18,13 +18,12 @@ Composed of or mixing together both good and evil.
 ### Agelast
 Somebody who never laughs.
 
-### Alethophobia: 
+### Alethophobia 
 A crippling fear of the truth. The inability to accept unflattering FACTS about your
 nation, religion, culture, ethnic group, or yourself.
 
 ### Alexithymia
 The inability to recognize or describe one's own emotions.
-
 
 ### Anemoia
 A deep nostalgic feeling for a place or time you've never been.
@@ -56,8 +55,18 @@ The rumbling sound of gas moving through the intestines.
 ### Brontide 
 The low frequency rumble of thunder that you hear in the distance.
 
+### Cacafuego
+An historical and literary term for somebody who is a blustering braggert; a spitfire. Someone who is 
+full of shit.
+
 ### Cacography
 Bad or messy or shitty handwriting.
+
+### Callipygian
+Having a shapely, and well-proportioned buttocks
+
+### Crapulous
+Suffering from over-eating
 
 ### Deipnosophist
 A person who is an expert or skilled at talking during dinner; a table-talker.
@@ -70,6 +79,10 @@ The fear of going to school.
 Something that belongs to or occurs in a fictional world.
 If it's something the reader/viewer knows about it, but the characters do not,
 that is nondiegetic.
+
+### Ecdysiast
+Invented word by HL Mencken, a clinical sounding word for a
+stripper.
 
 ### Efflorescence
 A state or time of flowering. 

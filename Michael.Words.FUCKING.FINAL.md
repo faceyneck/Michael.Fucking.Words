@@ -1,7 +1,6 @@
 # THESE ARE THE FUCKING WORDS MICHAEL SHARES WITH ME. I AM SICK OF MEGASYNC LOSING THEM, SO NOW I'VE SETUP THIS FILE
 
 
-
 ### Absquatuluate
 The tendency to leave abrubtly. (Humorous word) US usage.
 
@@ -97,6 +96,9 @@ The distancing from other people, not out of malice, but for a desire for solitu
 ### Freudenfreude
 Finding pleasure in the success and happiness of others.
 The opposite of schaudenfreude.
+
+### Floccinaucinihilipilification
+The act of estimating something as being worthless, just like this fucking mess of a word itself.
 
 ### Hexakosioihexekontahexaphobia 
 Specific phobia characterized by an intense, persistent, and irrational fear of the number "666"

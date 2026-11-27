@@ -1,6 +1,7 @@
 # THESE ARE THE FUCKING WORDS MICHAEL SHARES WITH ME. I AM SICK OF MEGASYNC LOSING THEM, SO NOW I'VE SETUP THIS FILE
 
 
+
 ### Absquatuluate
 The tendency to leave abrubtly. (Humorous word) US usage.
 
@@ -131,6 +132,9 @@ Without legal force
 
 ### Obelus
 The division symbol ("÷")
+
+### Octothorpe
+The official name for the pound/hashtag/number symbol. "\#"
 
 ### Ovophobia
 The fear of eggs.
